@@ -1,6 +1,6 @@
 <?
-$amazonAWSAccessKeyId  	= "Your Amazon AWS Access Key ID here";
-$amazonSecretAccessKey 	= "Your Amazon Secret Acces Key here";
-$amazonAssociateTag    	= "Your Associate Tag here";
-$storeName		= "Your Web Store Name here";
+$amazonAWSAccessKeyId  	= "AKIAIFPIOCDPYGP2XFJA";
+$amazonSecretAccessKey 	= "57omWIicxyWOlm4Wfv08AwjEy7M4MTfeFMMn7l3x";
+$amazonAssociateTag    	= "clotingsshopp-20";
+$storeName		= "ihiiikkkkk";
 ?>
